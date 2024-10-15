@@ -4,3 +4,4 @@ if sub_str in string:
     print(f"The {sub_str} is in {string} ")
 else:
     print(f"The {sub_str} is not in {string} ")
+ss

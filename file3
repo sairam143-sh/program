@@ -1,0 +1,5 @@
+
+list=[1,2,3,4,5,6]
+l=len(list)-1
+for i in range(l,-1,-1):
+    print(list[i],end=" ")
